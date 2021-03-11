@@ -103,7 +103,7 @@ DATABASES = {
 
         'USER': 'postgres',
 
-        'PASSWORD': 'GeoDiSo2020',
+        'PASSWORD': '******************************',
 
         'HOST': '18.156.185.31',
 
@@ -120,7 +120,7 @@ DATABASES = {
 
         'USER': 'postgres',
 
-        'PASSWORD': 'GeoDiSo2020',
+        'PASSWORD': '***********************',
 
         'HOST': '18.156.185.31',
 
