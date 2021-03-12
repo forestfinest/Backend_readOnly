@@ -99,13 +99,13 @@ DATABASES = {
         'options': '-c search_path=backend'
         },
 
-        'NAME': 'FFC_test',
+        'NAME': 'FFC',
 
         'USER': 'postgres',
 
         'PASSWORD': '******************************',
 
-        'HOST': '18.156.185.31',
+        'HOST': '18.156.***.**',
 
         'PORT': '5432',
     },
@@ -116,13 +116,13 @@ DATABASES = {
         'options': '-c search_path=data'
         },
 
-        'NAME': 'FFC_test',
+        'NAME': 'FFC',
 
         'USER': 'postgres',
 
         'PASSWORD': '***********************',
 
-        'HOST': '18.156.185.31',
+        'HOST': '18.156.***.**',
 
         'PORT': '5432',
     },
